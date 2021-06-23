@@ -1,0 +1,12 @@
+{
+  "name": "data-fetching-react",
+  "displayName": "data-fetching-react",
+  "expo": {
+    "name": "data-fetching-react",
+    "slug": "data-fetching-react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
